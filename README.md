@@ -1,0 +1,2 @@
+# thoughtloungeslack
+Automatic slack signin
